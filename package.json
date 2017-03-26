@@ -1,0 +1,30 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "My first MEAN project, learning from Udemy ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mubarak4show/MeanStack-Dev-Udemy.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "mubarak4show",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mubarak4show/MeanStack-Dev-Udemy/issues"
+  },
+  "homepage": "https://github.com/mubarak4show/MeanStack-Dev-Udemy#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
