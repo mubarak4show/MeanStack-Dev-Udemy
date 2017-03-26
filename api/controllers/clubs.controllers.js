@@ -39,5 +39,3 @@ module.exports.clubsAddOne = function(req, res) {
 		.status(200)
 		.json(req.body);
 };
-
-//asdasdasd
