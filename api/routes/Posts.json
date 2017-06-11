@@ -1,0 +1,46 @@
+[
+	{
+		"postId" : 1,
+		"Title" : "My first post",
+		"Content" : "Some Content",
+		"Comments" : [
+			{
+				"CommentId" : 1,
+				"Comment" : "Commenting on your first post"
+			}
+		]
+	},
+
+	{
+		"postId" : 2,
+		"Title" : "My second post",
+		"Content" : "Some Content 2",
+		"Comments" : [
+			{
+				"CommentId" : 2,
+				"Comment" : "Commenting on your second post"
+			}
+		],
+		"Author" : {
+			"Id" : 1,
+			"DisplayName" : "Mubarak Showole"
+		}
+	},
+
+	{
+		"postId" : 3,
+		"Title" : "My third post",
+		"Content" : "Some Content 3",
+		"Comments" : [
+			{
+				"CommentId" : 3,
+				"Comment" : "Commenting on your third post"
+			},
+
+			{
+				"CommentId" : 3,
+				"Comment" : "Also*** Commenting on your third post"
+			},
+		]
+	}
+]

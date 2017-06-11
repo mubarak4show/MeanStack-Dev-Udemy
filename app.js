@@ -1,3 +1,4 @@
+require('./api/data/db.js')
 var express = require('express');
 var app = express();
 var path = require('path');
